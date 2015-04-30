@@ -20,6 +20,7 @@ IF HTTP error on push:
 
 go into .git/config file and change remote 'origin' from:
 url=https://MichaelDrogalis@github.com/derekerdmann/lunch_call.git 
+
 to:
 url=ssh://git@github.com/derekerdmann/lunch_call.git
 It works!  Do not forget the "git" before the "@".
