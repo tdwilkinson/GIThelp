@@ -3,14 +3,17 @@ a list of all of my help documents for git!
 
 handy tutorial:        http://vallandingham.me/Quick_Git.html
 
+you have to make a fork before you can suggest a change to someone's code:
 make a fork:           https://help.github.com/articles/fork-a-repo/
 
 keep fork up-to-date:  https://help.github.com/articles/syncing-a-fork/
 
 pull request:          https://help.github.com/articles/using-pull-requests/
 
+when using git from a new computer, you have to authenticate it:
 generating ssh key:    https://help.github.com/articles/generating-ssh-keys/
 
+make commits often, then push code when things work out:
 help making pushes:    http://guides.railsgirls.com/github/
 
 general commands:      https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf
