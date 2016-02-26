@@ -13,10 +13,7 @@ pull request:          https://help.github.com/articles/using-pull-requests/
 when using git from a new computer, you have to authenticate it:
 generating ssh key:    https://help.github.com/articles/generating-ssh-keys/
 
-make commits often, then push code when things work out:
-help making pushes:    http://guides.railsgirls.com/github/
-
-general commands:      https://na1.salesforce.com/help/pdfs/en/salesforce_git_developer_cheatsheet.pdf
+make commits often, then push code when things work out
 
 ##########################################################################
 IF HTTP error on push:
