@@ -12,11 +12,14 @@ You have to make a fork before you can suggest a change to someone's code:
 Make commits often, then push code when things work out.
 Make sure local files are up-to-date with online files:
 >>> git pull
+
 -pull request help:          https://help.github.com/articles/using-pull-requests/
 
 After making edits to local file, add it to files to be pushed, add commit comments, and push to online files:
 >>> git add stellar_analysis.py
+
 >>> git commit -m 'added some stuffs'
+
 >>> git push
 
 When using git from a new computer, you have to authenticate it:
