@@ -33,6 +33,8 @@ Make sure local files are up-to-date with online files:
 
 ###When using git from a new computer, you have to authenticate it:
 
+### [Markdown] help
+
 -generating ssh key:    https://help.github.com/articles/generating-ssh-keys/
 ##########################################################################
 IF HTTP error on push:
