@@ -26,7 +26,10 @@ Make sure local files are up-to-date with online files:
 >>> git push
 
 ### Branching
-- Keep your master branch clean [by managing your branches.](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+- Keep your master branch clean by [managing your branches.](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+
+### Reset a Repository
+- sets back match the [original repository](http://stackoverflow.com/questions/33119211/git-reset-forked-repo-to-current-copy-of-upstream-repo)
 
 ###When using git from a new computer, you have to authenticate it:
 
