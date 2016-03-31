@@ -25,6 +25,9 @@ Make sure local files are up-to-date with online files:
 
 >>> git push
 
+### Branching
+- Keep your master branch clean [by managing your branches.](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+
 ###When using git from a new computer, you have to authenticate it:
 
 -generating ssh key:    https://help.github.com/articles/generating-ssh-keys/
