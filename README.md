@@ -24,6 +24,7 @@ Make sure local files are up-to-date with online files:
 >>> git commit -m 'added some stuffs'
 
 >>> git push
+
 ### [Change origin of forked repository](https://help.github.com/articles/changing-a-remote-s-url/)
 >>> git remote -v         
 
