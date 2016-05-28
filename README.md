@@ -25,8 +25,8 @@ Make sure local files are up-to-date with online files:
 
 >>> git push
 
-### [Change origin of forked repository](https://help.github.com/articles/changing-a-remote-s-url/)
->>> git remote -v         
+### Change origin of forked repository [help](https://help.github.com/articles/changing-a-remote-s-url/)
+>>> git remote -v              - useful for seeing where things are being pulled from/to
 
 ### Branching
 - Keep your master branch clean by [managing your branches.](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
